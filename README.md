@@ -1,5 +1,5 @@
 # Learning HQMMs
-Implementation of Model described in 'Learning Hidden Quantum Models' as described in http://proceedings.mlr.press/v84/srinivasan18a/srinivasan18a.pdf
+Implementation of learning algorithm as described in the AISTATS paper 'Learning Hidden Quantum Models':  http://proceedings.mlr.press/v84/srinivasan18a/srinivasan18a.pdf
 
 # Requirements
 
